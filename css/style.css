@@ -1,0 +1,135 @@
+* {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+}
+
+h3 {
+    font-size: 38px;
+    font-weight: 700;
+}
+#banner {
+    background: url(../images/banner.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    min-height: 550px;
+}
+.banner-content h2 {
+    font-size: 52px;
+    font-weight: 800;
+    margin-bottom: 40px;
+}
+.banner-content p {
+    font-size: 20px;
+    margin-bottom: 30px;
+}
+.banner-img {
+    width: 200px;
+}
+.banner-request-btn span {
+    background: #6765f5;
+    color: #fff;
+}
+.banner-form {
+    max-width: 360px;
+}
+/*banner end*/
+/*rating banner start*/
+#ratingBanner {
+    background-color: #6765f5;
+    color: #fff;
+    padding: 50px 0;
+}
+#ratingBanner h3 {
+    font-size: 38px;
+}
+/*rating banner end*/
+
+/*wallet start*/
+#wallet {
+    background: #f7fafd;
+    padding: 50px 0;
+}
+#wallet strong {
+    color: #798087;
+}
+.wallet-img {
+    max-width: 250px;
+}
+/*wallet end*/
+/*feature start*/
+#feature {
+    padding: 50px 0;
+}
+.bg-darkblue {
+    background: #6765f5;
+}
+.btn-darkblue {
+    background: #6765f5;
+    color: #fff;
+}
+/*feature end*/
+/*how work start*/
+#howWork {
+    padding: 40px 0;
+}
+#howWork i {
+    background: #6765f5;
+    color: #fff;
+    padding: 20px;
+    border-radius: 5px;
+}
+/*how work end*/
+/*video start*/
+#video {
+    padding: 40px 0;
+    background: #6765f5;
+}
+#video iframe {
+}
+/*video end*/
+/*testimonial start*/
+#testimonial {
+    padding: 40px 0;
+}
+/*testimonial end*/
+/*question start*/
+#question {
+    padding: 40px 0;
+}
+/*question end*/
+/*company start*/
+#company {
+    padding: 40px 0;
+}
+/*company end*/
+/*contact start*/
+#contact {
+    padding: 40px 0;
+}
+/*contact end*/
+/*footer start */
+#footer {
+    padding: 20px 0;
+    color: #d5d5d5;
+}
+#footer a {
+    text-decoration: none;
+    color: #d5d5d5;
+    padding: 5px 0;
+    display: block;
+}
+#footer a:hover {
+    color: #fff;
+}
+.footer-social-link li i {
+    background: #fff;
+    color: #000;
+    text-align: center;
+    width: 30px;
+    height: 30px;
+    border-radius: 50%;
+    padding: 8px 0;
+    margin: 0 3px;
+}
+/*footer end*/
